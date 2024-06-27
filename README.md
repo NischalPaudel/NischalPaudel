@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, I am Nischal Paudel and I am currently a student learning computer science. My hobbies are coding, reading books and hiking.
 
 <!--
 **NischalPaudel/NischalPaudel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
